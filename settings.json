@@ -1,0 +1,47 @@
+{
+    "workbench.colorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.fontFamily": "Operator Mono Book",
+    "editor.fontSize": 15,
+    //"editor.lineHeight": 21,
+    "editor.wordWrap": "on",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "workbench.list.smoothScrolling": true,
+    "workbench.preferredDarkColorTheme": "Monokai Pro (Filter Spectrum)",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "debug.console.fontFamily": "Operator Mono Book",
+    "debug.console.fontSize": 15,
+    "terminal.explorerKind": "external",
+    "terminal.external.linuxExec": "konsole",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 15,
+    "c-cpp-compile-run.c-compiler": "clang",
+    "c-cpp-compile-run.c-flags": "-Wall -Wextra -lm",
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "python.languageServer": "Pylance",
+    // Clang format settings:
+    "clang-format.language.cuda.enable": false,
+    "clang-format.language.apex.enable": false,
+    "clang-format.language.glsl.enable": false,
+    "clang-format.language.java.enable": false,
+    "clang-format.language.javascript.enable": false,
+    "clang-format.language.proto.enable": false,
+    "clang-format.language.typescript.enable": false,
+    "window.zoomLevel": 0,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ]
+}
